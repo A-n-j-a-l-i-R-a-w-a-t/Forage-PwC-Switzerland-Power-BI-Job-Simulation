@@ -1,2 +1,5 @@
 # Forage-PwC-Power-BI-Internship
-This repository contains projects and visualizations created during the Forage PwC Power BI internship simulation. The internship provides practical experience in using Power BI for data analysis and visualization, allowing us to develop key skills in business intelligence.
+
+## Objective
+The goal of this internship is to learn how to analyze data effectively and present insights using Power BI. This includes creating dashboards, visualizations, and reports that can drive business decisions.
+
