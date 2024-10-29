@@ -48,7 +48,7 @@ In this simulation, I was tasked with creating three Power BI dashboards to addr
 - Strong communication and analytical problem-solving abilities
 
 ## Completion Certificate
-You can view my completion certificate [here](./completion_certificate.pdf).
+You can view my completion certificate [here](https://github.com/A-n-j-a-l-i-R-a-w-a-t/Forage-PwC-Power-BI-Internship/blob/main/PwC%20Switzerland_Power%20BI%20Virtual%20Case%20Experience.pdf).
 
 ## Contact
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anjali-rawat-172617155/)
